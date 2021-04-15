@@ -6,4 +6,5 @@ Mi nombre es Francisco Ferreira, tengo 23 años y soy de Campana.
 
 Soy estudiante de ingenieria en sistemas. Me gusta mucho programar y mi hobbie principal es natacion.
 
-![](https://avatars.githubusercontent.com/u/49106123?s=60&v=4)
+![](![image](https://user-images.githubusercontent.com/49106123/114924386-4df6a680-9e04-11eb-9184-b8e25bf7544d.png)
+)
